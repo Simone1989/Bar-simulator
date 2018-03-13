@@ -1,0 +1,45 @@
+C:\Users\Mon\source\repos\Labbar\Lab6\lab6\Lab6\Lab6\bin\Debug\Lab6.exe.config
+C:\Users\Mon\source\repos\Labbar\Lab6\lab6\Lab6\Lab6\bin\Debug\Lab6.exe
+C:\Users\Mon\source\repos\Labbar\Lab6\lab6\Lab6\Lab6\bin\Debug\Lab6.pdb
+C:\Users\Mon\source\repos\Labbar\Lab6\lab6\Lab6\Lab6\obj\Debug\Lab6.csprojResolveAssemblyReference.cache
+C:\Users\Mon\source\repos\Labbar\Lab6\lab6\Lab6\Lab6\obj\Debug\MainWindow.g.cs
+C:\Users\Mon\source\repos\Labbar\Lab6\lab6\Lab6\Lab6\obj\Debug\App.g.cs
+C:\Users\Mon\source\repos\Labbar\Lab6\lab6\Lab6\Lab6\obj\Debug\Lab6_MarkupCompile.cache
+C:\Users\Mon\source\repos\Labbar\Lab6\lab6\Lab6\Lab6\obj\Debug\Lab6_MarkupCompile.lref
+C:\Users\Mon\source\repos\Labbar\Lab6\lab6\Lab6\Lab6\obj\Debug\MainWindow.baml
+C:\Users\Mon\source\repos\Labbar\Lab6\lab6\Lab6\Lab6\obj\Debug\Lab6.g.resources
+C:\Users\Mon\source\repos\Labbar\Lab6\lab6\Lab6\Lab6\obj\Debug\Lab6.Properties.Resources.resources
+C:\Users\Mon\source\repos\Labbar\Lab6\lab6\Lab6\Lab6\obj\Debug\Lab6.csproj.GenerateResource.Cache
+C:\Users\Mon\source\repos\Labbar\Lab6\lab6\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\Mon\source\repos\Labbar\Lab6\lab6\Lab6\Lab6\obj\Debug\Lab6.exe
+C:\Users\Mon\source\repos\Labbar\Lab6\lab6\Lab6\Lab6\obj\Debug\Lab6.pdb
+E:\Mina dokument\MON STUFF\Repos\Lab 6\lab6\Lab6\Lab6\bin\Debug\Lab6.exe.config
+E:\Mina dokument\MON STUFF\Repos\Lab 6\lab6\Lab6\Lab6\bin\Debug\Lab6.exe
+E:\Mina dokument\MON STUFF\Repos\Lab 6\lab6\Lab6\Lab6\bin\Debug\Lab6.pdb
+E:\Mina dokument\MON STUFF\Repos\Lab 6\lab6\Lab6\Lab6\obj\Debug\Lab6.csprojResolveAssemblyReference.cache
+E:\Mina dokument\MON STUFF\Repos\Lab 6\lab6\Lab6\Lab6\obj\Debug\MainWindow.g.cs
+E:\Mina dokument\MON STUFF\Repos\Lab 6\lab6\Lab6\Lab6\obj\Debug\App.g.cs
+E:\Mina dokument\MON STUFF\Repos\Lab 6\lab6\Lab6\Lab6\obj\Debug\Lab6_MarkupCompile.cache
+E:\Mina dokument\MON STUFF\Repos\Lab 6\lab6\Lab6\Lab6\obj\Debug\Lab6_MarkupCompile.lref
+E:\Mina dokument\MON STUFF\Repos\Lab 6\lab6\Lab6\Lab6\obj\Debug\MainWindow.baml
+E:\Mina dokument\MON STUFF\Repos\Lab 6\lab6\Lab6\Lab6\obj\Debug\Lab6.g.resources
+E:\Mina dokument\MON STUFF\Repos\Lab 6\lab6\Lab6\Lab6\obj\Debug\Lab6.Properties.Resources.resources
+E:\Mina dokument\MON STUFF\Repos\Lab 6\lab6\Lab6\Lab6\obj\Debug\Lab6.csproj.GenerateResource.Cache
+E:\Mina dokument\MON STUFF\Repos\Lab 6\lab6\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+E:\Mina dokument\MON STUFF\Repos\Lab 6\lab6\Lab6\Lab6\obj\Debug\Lab6.exe
+E:\Mina dokument\MON STUFF\Repos\Lab 6\lab6\Lab6\Lab6\obj\Debug\Lab6.pdb
+E:\Program och Spel\OneDrive\OneDrive\Simones Portfölj and the Battle of the Five Armies\ITHÖGSKOLAN ÅR 1\VS projects\Labbar\Lab6\lab6\Lab6\Lab6\bin\Debug\Lab6.exe.config
+E:\Program och Spel\OneDrive\OneDrive\Simones Portfölj and the Battle of the Five Armies\ITHÖGSKOLAN ÅR 1\VS projects\Labbar\Lab6\lab6\Lab6\Lab6\bin\Debug\Lab6.exe
+E:\Program och Spel\OneDrive\OneDrive\Simones Portfölj and the Battle of the Five Armies\ITHÖGSKOLAN ÅR 1\VS projects\Labbar\Lab6\lab6\Lab6\Lab6\bin\Debug\Lab6.pdb
+E:\Program och Spel\OneDrive\OneDrive\Simones Portfölj and the Battle of the Five Armies\ITHÖGSKOLAN ÅR 1\VS projects\Labbar\Lab6\lab6\Lab6\Lab6\obj\Debug\Lab6.csprojResolveAssemblyReference.cache
+E:\Program och Spel\OneDrive\OneDrive\Simones Portfölj and the Battle of the Five Armies\ITHÖGSKOLAN ÅR 1\VS projects\Labbar\Lab6\lab6\Lab6\Lab6\obj\Debug\MainWindow.g.cs
+E:\Program och Spel\OneDrive\OneDrive\Simones Portfölj and the Battle of the Five Armies\ITHÖGSKOLAN ÅR 1\VS projects\Labbar\Lab6\lab6\Lab6\Lab6\obj\Debug\App.g.cs
+E:\Program och Spel\OneDrive\OneDrive\Simones Portfölj and the Battle of the Five Armies\ITHÖGSKOLAN ÅR 1\VS projects\Labbar\Lab6\lab6\Lab6\Lab6\obj\Debug\Lab6_MarkupCompile.cache
+E:\Program och Spel\OneDrive\OneDrive\Simones Portfölj and the Battle of the Five Armies\ITHÖGSKOLAN ÅR 1\VS projects\Labbar\Lab6\lab6\Lab6\Lab6\obj\Debug\Lab6_MarkupCompile.lref
+E:\Program och Spel\OneDrive\OneDrive\Simones Portfölj and the Battle of the Five Armies\ITHÖGSKOLAN ÅR 1\VS projects\Labbar\Lab6\lab6\Lab6\Lab6\obj\Debug\MainWindow.baml
+E:\Program och Spel\OneDrive\OneDrive\Simones Portfölj and the Battle of the Five Armies\ITHÖGSKOLAN ÅR 1\VS projects\Labbar\Lab6\lab6\Lab6\Lab6\obj\Debug\Lab6.g.resources
+E:\Program och Spel\OneDrive\OneDrive\Simones Portfölj and the Battle of the Five Armies\ITHÖGSKOLAN ÅR 1\VS projects\Labbar\Lab6\lab6\Lab6\Lab6\obj\Debug\Lab6.Properties.Resources.resources
+E:\Program och Spel\OneDrive\OneDrive\Simones Portfölj and the Battle of the Five Armies\ITHÖGSKOLAN ÅR 1\VS projects\Labbar\Lab6\lab6\Lab6\Lab6\obj\Debug\Lab6.csproj.GenerateResource.Cache
+E:\Program och Spel\OneDrive\OneDrive\Simones Portfölj and the Battle of the Five Armies\ITHÖGSKOLAN ÅR 1\VS projects\Labbar\Lab6\lab6\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+E:\Program och Spel\OneDrive\OneDrive\Simones Portfölj and the Battle of the Five Armies\ITHÖGSKOLAN ÅR 1\VS projects\Labbar\Lab6\lab6\Lab6\Lab6\obj\Debug\Lab6.exe
+E:\Program och Spel\OneDrive\OneDrive\Simones Portfölj and the Battle of the Five Armies\ITHÖGSKOLAN ÅR 1\VS projects\Labbar\Lab6\lab6\Lab6\Lab6\obj\Debug\Lab6.pdb
